@@ -1,6 +1,6 @@
 # Tracking_Data_Analysis
 
-Project for Soccermatics Pro Course where using tracking data for the Champions League 2023 final between Manchester City and Inter Milan I compared Edin Džeko's and Romelu Lukaku's attacking runs. A project summary is in the pdf file with the plots of the attacking runs, the boxplots of distance and angle of the runs, and a short interpretation of the RunDžeko.mp4 file.
+Using tracking data for the Champions League 2023 final between Manchester City and Inter Milan to compare Edin Džeko's and Romelu Lukaku's attacking runs. A project summary is in the pdf file with the plots of the attacking runs, the boxplots of distance and angle of the runs, and a short interpretation of the RunDžeko.mp4 file.
 
 ## Main tools used
 
